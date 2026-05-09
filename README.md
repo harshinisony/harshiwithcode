@@ -8,9 +8,9 @@
 
 - 🤝 I’m looking for help with **Frontend Development & React Projects project link**
 
-- 👨‍💻 All of my projects are available at [Portfolio link](Portfolio link)
+- 👨‍💻 All of my projects are available at [Portfolio link]
 
-- 📝 I regularly write articles on [UI/UX Design & Tech Trends 📄](UI/UX Design & Tech Trends 📄)
+- 📝 I regularly write articles on [UI/UX Design & Tech Trends 📄]
 
 - 💬 Ask me about **UI Design, App Design, Figma & Frontend Basics**
 
